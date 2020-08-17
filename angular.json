@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -123,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tuto-angular-openclassroom"
+    }
+  },
+  "defaultProject": "tuto-angular-openclassroom",
+  "cli": {
+    "analytics": "ef440052-f2d7-4fb5-ad7c-843ecfea196e"
+  }
 }
